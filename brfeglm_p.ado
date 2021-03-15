@@ -1,4 +1,4 @@
-*! version 1.0.0  15mar2021
+*! version 1.0.1  15mar2021
 /* predict for brfeglm*/
 /* adapted from probit_p */
 program define brfeglm_p, sort

@@ -1,9 +1,7 @@
-* Version 1.0.0 - 15 Mar 2021
+* Version 1.0.1 - 15 Mar 2021
 
-* By Johannes S. Kunz, Kevin E. Staub & Rainer Winkelmann
-* Additional coding by Alex Ballantyne
+* By Alex Ballantyne, Johannes S. Kunz, Kevin E. Staub & Rainer Winkelmann
 * See helpfile for explanations. 
-* Please email kevin.staub@unimelb.edu.au for help or support.
 
 * The software is provided as is, without warranty of any kind, express or implied, including 
 * but not limited to the warranties of merchantability, fitness for a particular purpose and 

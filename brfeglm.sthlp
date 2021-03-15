@@ -253,6 +253,5 @@ option is sometimes used by programmers but is of no use interactively.
 
 {marker KSW2020}{...}
 {phang}
-Kunz, J. S., K. E. Staub and R. Winkelmann 2020. Predicting Fixed Effects in Panel Probit Models. 
-{it:JOURNAL NAME} XXX: XXX-XXX. 
+Kunz, J. S., K. E. Staub and R. Winkelmann 2020. "Predicting fixed effects in panel probit models." Monash Business School 10/19 (2019).
 

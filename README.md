@@ -22,7 +22,7 @@ Can be installed in STATA via:
 ```stata
 
 * Install the most recent version of -brfeglm-
-net install brfeglm, from("https://raw.githubusercontent.com/JohannesSKunz/brfeglm/master") replace
+net install brfeglm, from("https://githubusercontent.com/JohannesSKunz/brfeglm/master") replace
 ```
 
 ## Example 
@@ -66,16 +66,16 @@ margins, dydx(*)
 
 ## References: 
 
-# Bias reduced canonical link function models:
+Bias reduced canonical link function models:
 
-Firth, David. "Bias reduction of maximum likelihood estimates." Biometrika 80.1 (1993): 27-38.
+ - Firth, David. "Bias reduction of maximum likelihood estimates." Biometrika 80.1 (1993): 27-38.
 
-# Bias reduced generalised linear models: 
+Bias reduced generalised linear models: 
 
-Kosmidis, I., & Firth, D. (2009). Bias reduction in exponential family nonlinear models. Biometrika, 96(4), 793-804.
+ - Kosmidis, I., & Firth, D. (2009). Bias reduction in exponential family nonlinear models. Biometrika, 96(4), 793-804.
 
-# Bias reduced fixed effect generalised linear models: 
+Bias reduced fixed effect generalised linear models: 
 
-Kunz, Johannes, Kevin E. Staub, and Rainer Winkelmann. "Predicting fixed effects in panel probit models." Monash Business School 10/19 (2019).
+ - Kunz, Johannes, Kevin E. Staub, and Rainer Winkelmann. "Predicting fixed effects in panel probit models." Monash Business School 10/19 (2019).
 
 

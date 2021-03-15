@@ -1,0 +1,3 @@
+v 1
+d Alexander Ballantyne, Johannes Kunz, Kevin Staub, Rainer Winkelmann
+p brfeglm - Stata program to estimate bias reduced fixed effects glms.

@@ -22,7 +22,7 @@ Can be installed in STATA via:
 ```stata
 
 * Install the most recent version of -brfeglm-
-net install brfeglm, from("https://githubusercontent.com/JohannesSKunz/brfeglm/master") replace
+net install brfeglm, from("https://githubusercontent.com/JohannesSKunz/brfeglm/master/") replace
 ```
 
 ## Example 

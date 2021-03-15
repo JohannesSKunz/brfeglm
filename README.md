@@ -55,7 +55,7 @@ margins, dydx(*)
 [Alexander Ballantyne](https://sites.google.com/view/arballantyne)
 <br>University of Melbourne
 
-[Johannes Kunz](http://www.davidmolitor.com)
+[Johannes Kunz](https://sites.google.com/site/johannesskunz/)
 <br>Monash University 
 
 [Kevin E. Staub](http://www.kevinstaub.com)

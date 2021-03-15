@@ -9,7 +9,7 @@
 
 `brfeglm` is a [Stata](http://www.stata.com) command that estimates estimate bias-reduced fixed effects glm models for probit, logit and cloglog by iterative weighted least squares (IWLS) and with a large dummy-variable set.
 
-The program builds upon [brglm](https://github.com/JohannesSKunz/brglm), but is tailored to the estimation of fixed effects, it is much faster, omits the fixed effects from the regression output but extracts and stores them automatically in a new variables. 
+The program builds upon [brglm](https://raw.github.com/JohannesSKunz/brglm), but is tailored to the estimation of fixed effects, it is much faster, omits the fixed effects from the regression output but extracts and stores them automatically in a new variables. 
 
 Works with margin command. 
 

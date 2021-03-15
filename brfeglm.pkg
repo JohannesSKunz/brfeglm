@@ -1,0 +1,8 @@
+v 1
+p brfeglm - Stata program to estimate bias reduced fixed effects glms.
+d Alexander Ballantyne, Johannes Kunz, Kevin Staub, Rainer Winkelmann
+
+f /src/brfeglm.ado
+f /src/brfeglm.sthlp
+f /src/brfeglm_p.ado
+f /src/brfeglm_postestimation.sthlp

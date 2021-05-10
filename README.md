@@ -1,7 +1,7 @@
 # BRFEGLM: estimate bias reduced fixed effect glm in Stata.
 
 - Current version: `1.0.1 15mar2021`
-- Jump to: [`overview`](#overview) [`installation`](#installation) [`example`](#example) [`update history`](#update-history) [`authors`](#authors) [`references`](#references)
+- Jump to: [`overview`](#overview) [`installation`](#installation) [`example`](#example) [`update history`](#update-history) [`authors`](#authors) [`references`](#references) [`published applications`](#applications)
 
 -----------
 
@@ -55,7 +55,7 @@ margins, dydx(*)
 [Alexander Ballantyne](https://sites.google.com/view/arballantyne)
 <br>University of Melbourne
 
-[Johannes Kunz](http://https://sites.google.com/site/johannesskunz/)
+[Johannes Kunz](https://sites.google.com/site/johannesskunz/)
 <br>Monash University 
 
 [Kevin E. Staub](http://www.kevinstaub.com)

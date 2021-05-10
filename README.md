@@ -1,7 +1,7 @@
 # BRFEGLM: estimate bias reduced fixed effect glm in Stata.
 
 - Current version: `1.0.1 15mar2021`
-- Jump to: [`overview`](#overview) [`installation`](#installation) [`example`](#example) [`update history`](#update-history) [`authors`](#authors) [`references`](#references) [`published applications`](#applications)
+- Jump to: [`overview`](#overview) [`installation`](#installation) [`example`](#example) [`update history`](#update-history) [`authors`](#authors) [`references`](#references) [`published applications`](#published-applications)
 
 -----------
 
@@ -66,15 +66,15 @@ margins, dydx(*)
 
 ## References: 
 
-# Bias reduced canonical link function models:
+**Bias reduced canonical link function models**:
 
 Firth, David. .1993. [Bias Reduction of Maximum Likelihood Estimates](https://www.jstor.org/stable/2336755?seq=1#metadata_info_tab_contents). Biometrika. 80.1: 27-38.
 
-# Bias reduced generalised linear models: 
+**Bias reduced generalised linear models**: 
 
 Kosmidis, I., & Firth, D. (2009). [Bias Reduction in Exponential Family Nonlinear Models](https://www.jstor.org/stable/27798867#metadata_info_tab_contents). Biometrika, 96(4), 793-804.
 
-# Bias reduced fixed effect generalised linear models: 
+**Bias reduced fixed effect generalised linear models**: 
 
 Kunz, Johannes, Kevin E. Staub, and Rainer Winkelmann. 2021. Predicting Individual Effects in Fixed Effects Panel Probit Models. Journal of the Royal Statistical Society: Series A. Forthcoming.
 

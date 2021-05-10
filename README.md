@@ -7,9 +7,9 @@
 
 ## Overview 
 
-`brfeglm` is a [Stata](http://www.stata.com) command that estimates estimate bias-reduced fixed effects glm models for probit, logit and cloglog by iterative weighted least squares (IWLS) and with a large dummy-variable set.
+`brfeglm` is a [Stata](http://www.stata.com) command that estimates bias-reduced fixed effects glm models for probit, logit and cloglo by iterative weighted least squares (IWLS) and with a large dummy-variable set.
 
-The program builds upon [brglm](https://github.com/JohannesSKunz/brglm), but is tailored to the estimation of fixed effects, it is much faster, omits the fixed effects from the regression output but extracts and stores them automatically in a new variables. 
+The program builds upon brglm, but is tailored to the estimation of fixed effects, it is much faster, omits the fixed effects from the regression output but extracts and stores them automatically in a new variables. 
 
 Works with margin command. 
 
@@ -22,7 +22,7 @@ Can be installed in STATA via:
 ```stata
 
 * Install the most recent version of -brfeglm-
-net install brfeglm, from("https://raw.githubusercontent.com/JohannesSKunz/brfeglm/master/") replace
+net install brfeglm, from("https://raw.githubusercontent.com/JohannesSKunz/brfeglm/master") replace
 ```
 
 ## Example 
@@ -55,7 +55,7 @@ margins, dydx(*)
 [Alexander Ballantyne](https://sites.google.com/view/arballantyne)
 <br>University of Melbourne
 
-[Johannes Kunz](https://sites.google.com/site/johannesskunz/)
+[Johannes Kunz](http://https://sites.google.com/site/johannesskunz/)
 <br>Monash University 
 
 [Kevin E. Staub](http://www.kevinstaub.com)
@@ -66,16 +66,18 @@ margins, dydx(*)
 
 ## References: 
 
-Bias reduced canonical link function models:
+# Bias reduced canonical link function models:
 
- - Firth, David. "Bias reduction of maximum likelihood estimates." Biometrika 80.1 (1993): 27-38.
+Firth, David. .1993. [Bias Reduction of Maximum Likelihood Estimates](https://www.jstor.org/stable/2336755?seq=1#metadata_info_tab_contents). Biometrika. 80.1: 27-38.
 
-Bias reduced generalised linear models: 
+# Bias reduced generalised linear models: 
 
- - Kosmidis, I., & Firth, D. (2009). Bias reduction in exponential family nonlinear models. Biometrika, 96(4), 793-804.
+Kosmidis, I., & Firth, D. (2009). [Bias Reduction in Exponential Family Nonlinear Models](https://www.jstor.org/stable/27798867#metadata_info_tab_contents). Biometrika, 96(4), 793-804.
 
-Bias reduced fixed effect generalised linear models: 
+# Bias reduced fixed effect generalised linear models: 
 
- - Kunz, Johannes, Kevin E. Staub, and Rainer Winkelmann. "Predicting fixed effects in panel probit models." Monash Business School 10/19 (2019).
+Kunz, Johannes, Kevin E. Staub, and Rainer Winkelmann. 2021. Predicting Individual Effects in Fixed Effects Panel Probit Models. Journal of the Royal Statistical Society: Series A. Forthcoming.
 
+## Published applications:
 
+Chen, L., Clarke, P. M., Petrie, D. J., and Staub, K. E. 2021. The Effects of Self-Assessed Health: Dealing with and Understanding Misclassification Bias. [Journal of Health Economics, in press](https://www.sciencedirect.com/science/article/abs/pii/S0167629621000485).

@@ -80,4 +80,4 @@ Kunz, Johannes, Kevin E. Staub, and Rainer Winkelmann. 2021. [Predicting Individ
 
 ## Published applications:
 
-Chen, L., Clarke, P. M., Petrie, D. J., and Staub, K. E. 2021. The Effects of Self-Assessed Health: Dealing with and Understanding Misclassification Bias. [Journal of Health Economics, in press](https://www.sciencedirect.com/science/article/abs/pii/S0167629621000485).
+Buchmueller, T. C., Cheng, T. C., Pham, N. T., & Staub, K. E. (2021). [The effect of income-based mandates on the demand for private hospital insurance and its dynamics](http://www.kevinstaub.com/ewExternalFiles/2021_jhe.pdf). Journal of Health Economics, 75, 102403.

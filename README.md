@@ -9,7 +9,7 @@
 
 `brfeglm` is a [Stata](http://www.stata.com) command that estimates bias-reduced fixed effects glm models for probit, logit and cloglo by iterative weighted least squares (IWLS) and with a large dummy-variable set.
 
-The program builds upon brglm, but is tailored to the estimation of fixed effects, it is much faster, omits the fixed effects from the regression output but extracts and stores them automatically in a new variables. 
+The program builds upon [brglm](https://github.com/JohannesSKunz/brglm), but is tailored to the estimation of fixed effects, it is much faster, omits the fixed effects from the regression output but extracts and stores them automatically in a new variables. 
 
 Works with margin command. 
 
@@ -68,15 +68,15 @@ margins, dydx(*)
 
 **Bias reduced canonical link function models**:
 
-Firth, David. .1993. [Bias Reduction of Maximum Likelihood Estimates](https://www.jstor.org/stable/2336755?seq=1#metadata_info_tab_contents). Biometrika. 80.1: 27-38.
+Firth, David. 1993. [Bias Reduction of Maximum Likelihood Estimates](https://www.jstor.org/stable/2336755?seq=1#metadata_info_tab_contents). Biometrika. 80.1: 27-38.
 
 **Bias reduced generalised linear models**: 
 
-Kosmidis, I., & Firth, D. (2009). [Bias Reduction in Exponential Family Nonlinear Models](https://www.jstor.org/stable/27798867#metadata_info_tab_contents). Biometrika, 96(4), 793-804.
+Kosmidis, I., & Firth, D. 2009. [Bias Reduction in Exponential Family Nonlinear Models](https://www.jstor.org/stable/27798867#metadata_info_tab_contents). Biometrika, 96(4), 793-804.
 
 **Bias reduced fixed effect generalised linear models**: 
 
-Kunz, Johannes, Kevin E. Staub, and Rainer Winkelmann. 2021. Predicting Individual Effects in Fixed Effects Panel Probit Models. Journal of the Royal Statistical Society: Series A. Forthcoming.
+Kunz, Johannes, Kevin E. Staub, and Rainer Winkelmann. 2021. [Predicting Individual Effects in Fixed Effects Panel Probit Models](http://soda-wps.s3-website-ap-southeast-2.amazonaws.com/RePEc/ajr/sodwps/2021-05.pdf). Journal of the Royal Statistical Society: Series A. Forthcoming.
 
 ## Published applications:
 

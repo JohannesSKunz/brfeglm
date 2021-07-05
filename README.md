@@ -76,7 +76,9 @@ Kosmidis, I., & Firth, D. 2009. [Bias Reduction in Exponential Family Nonlinear 
 
 **Bias reduced fixed effect generalised linear models**: 
 
-Kunz, Johannes, Kevin E. Staub, and Rainer Winkelmann. 2021. [Predicting Individual Effects in Fixed Effects Panel Probit Models](http://soda-wps.s3-website-ap-southeast-2.amazonaws.com/RePEc/ajr/sodwps/2021-05.pdf). Journal of the Royal Statistical Society: Series A. Forthcoming.
+Kunz, Johannes, Kevin E. Staub, and Rainer Winkelmann. 2021. [Predicting Individual Effects in Fixed Effects Panel Probit Models](http://doi.org/10.1111/rssa.12722). Journal of the Royal Statistical Society: Series A. Forthcoming.
+
+
 
 ## Published applications:
 

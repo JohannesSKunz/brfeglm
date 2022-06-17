@@ -76,9 +76,12 @@ Kosmidis, I., & Firth, D. 2009. [Bias Reduction in Exponential Family Nonlinear 
 
 **Bias reduced fixed effect generalised linear models**: 
 
-Kunz, Johannes, Kevin E. Staub, and Rainer Winkelmann. 2021. [Predicting Individual Effects in Fixed Effects Panel Probit Models](http://doi.org/10.1111/rssa.12722). Journal of the Royal Statistical Society: Series A. 184(3): 1109-1145.
+Kunz, J. S., K. E. Staub, & R. Winkelmann. 2021. [Predicting Individual Effects in Fixed Effects Panel Probit Models](http://doi.org/10.1111/rssa.12722). Journal of the Royal Statistical Society: Series A. 184(3): 1109-1145.
 
 
 ## Published applications:
 
 Buchmueller, T. C., Cheng, T. C., Pham, N. T., & Staub, K. E. (2021). [The effect of income-based mandates on the demand for private hospital insurance and its dynamics](http://www.kevinstaub.com/ewExternalFiles/2021_jhe.pdf). Journal of Health Economics, 75, 102403.
+
+Kunz, J. S. & C. Propper. (2022). JUE Insight: Is Hospital Quality Predictive of Pandemic Deaths? Evidence from US Counties. Journal of Urban Economics, Forthcoming.
+

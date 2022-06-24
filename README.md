@@ -83,5 +83,5 @@ Kunz, J. S., K. E. Staub, & R. Winkelmann. 2021. [Predicting Individual Effects 
 
 Buchmueller, T. C., Cheng, T. C., Pham, N. T., & Staub, K. E. (2021). [The effect of income-based mandates on the demand for private hospital insurance and its dynamics](http://www.kevinstaub.com/ewExternalFiles/2021_jhe.pdf). Journal of Health Economics, 75, 102403.
 
-Kunz, J. S. & C. Propper. (2022). JUE Insight: Is Hospital Quality Predictive of Pandemic Deaths? Evidence from US Counties. Journal of Urban Economics, Forthcoming.
+Kunz, J. S. & C. Propper. (2022). [JUE Insight: Is Hospital Quality Predictive of Pandemic Deaths? Evidence from US Counties](https://www.sciencedirect.com/science/article/pii/S0094119022000493). Journal of Urban Economics, Forthcoming.
 

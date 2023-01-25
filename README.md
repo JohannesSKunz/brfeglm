@@ -83,7 +83,7 @@ Kunz, J. S., K. E. Staub, & R. Winkelmann. 2021. [Predicting Individual Effects 
 
 Buchmueller, T. C., Cheng, T. C., Pham, N. T., & K. E. Staub. (2021). [The effect of income-based mandates on the demand for private hospital insurance and its dynamics](http://www.kevinstaub.com/ewExternalFiles/2021_jhe.pdf). Journal of Health Economics, 75, 102403.
 
-Kung C. S. J., Kunz, J. S. & M. Shields. (2023). COVID-19 Lockdowns and Changes in Loneliness among Young People in the U.K. Social Science & Medicine. In press. 
+Kung C. S. J., Kunz, J. S. & M. Shields. (2023). [COVID-19 Lockdowns and Changes in Loneliness among Young People in the U.K.](https://doi.org/10.1016/j.socscimed.2023.115692) Social Science & Medicine. In press. 
 
-Kunz, J. S. & C. Propper. (2022). [JUE Insight: Is Hospital Quality Predictive of Pandemic Deaths? Evidence from US Counties](https://www.sciencedirect.com/science/article/pii/S0094119022000493). Journal of Urban Economics, Forthcoming.
+Kunz, J. S. & C. Propper. (2022). [JUE Insight: Is Hospital Quality Predictive of Pandemic Deaths? Evidence from US Counties](https://www.sciencedirect.com/science/article/pii/S0094119022000493). Journal of Urban Economics, 103472.
 

@@ -83,8 +83,11 @@ Kunz, J. S., K. E. Staub, & R. Winkelmann. 2021. [Predicting Individual Effects 
 
 Buchmueller, T. C., Cheng, T. C., Pham, N. T., & K. E. Staub. (2021). [The effect of income-based mandates on the demand for private hospital insurance and its dynamics](http://www.kevinstaub.com/ewExternalFiles/2021_jhe.pdf). Journal of Health Economics, 75, 102403.
 
-Kunz, J. S. & C. Propper. (2022). [JUE Insight: Is Hospital Quality Predictive of Pandemic Deaths? Evidence from US Counties](https://www.sciencedirect.com/science/article/pii/S0094119022000493). Journal of Urban Economics, 103472.
+Kunz, J. S. & C. Propper. (2023). [JUE Insight: Is Hospital Quality Predictive of Pandemic Deaths? Evidence from US Counties](https://www.sciencedirect.com/science/article/pii/S0094119022000493). Journal of Urban Economics, 133: 103472.
 
-Kung C. S. J., Kunz, J. S. & M. Shields. (2023). [COVID-19 Lockdowns and Changes in Loneliness among Young People in the U.K.](https://doi.org/10.1016/j.socscimed.2023.115692) Social Science & Medicine. In press. 
+Kung C. S. J., Kunz, J. S. & M. Shields. (2023). [COVID-19 Lockdowns and Changes in Loneliness among Young People in the U.K.](https://doi.org/10.1016/j.socscimed.2023.115692) Social Science & Medicine.320: 115692, 2023. 
 
 Krause, D. (2023). [Armed Conflicts With Al-Qaeda and the Islamic State: The Role of Repression and State Capacity.](https://doi.org/10.1177/00220027231176237) Journal of Conflict Resolution, 0(0). In press. Replication files [here](https://figshare.com/articles/dataset/Supplemental_Material_-_Armed_Conflicts_With_Al-Qaeda_and_the_Islamic_State_The_Role_of_Repression_and_State_Capacity/23097027). 
+
+Johannes S. Kunz, Carol Propper, Kevin E. Staub & Rainer Winkelmann. 2024. [Assessing the quality of public services: For-profits, chains, and concentration in the hospital market](https://onlinelibrary.wiley.com/doi/10.1002/hec.4861) Health Economics. In press.
+

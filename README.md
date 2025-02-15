@@ -89,5 +89,8 @@ Kung C. S. J., Kunz, J. S. & M. Shields. (2023). [COVID-19 Lockdowns and Changes
 
 Krause, D. (2023). [Armed Conflicts With Al-Qaeda and the Islamic State: The Role of Repression and State Capacity.](https://doi.org/10.1177/00220027231176237) Journal of Conflict Resolution, 0(0). In press. Replication files [here](https://figshare.com/articles/dataset/Supplemental_Material_-_Armed_Conflicts_With_Al-Qaeda_and_the_Islamic_State_The_Role_of_Repression_and_State_Capacity/23097027). 
 
-Kunz, J. S., Propper, C., Staub, K. E. & Winkelmann, R. 2024. [Assessing the quality of public services: For-profits, chains, and concentration in the hospital market](https://onlinelibrary.wiley.com/doi/10.1002/hec.4861) Health Economics. In press.
+Kunz, J. S., Propper, C., Staub, K. E. & Winkelmann, R. 2024. [Assessing the quality of public services: For-profits, chains, and concentration in the hospital market](https://onlinelibrary.wiley.com/doi/10.1002/hec.4861) Health Economics. 33(9): 2162-2181. Replication files [here](https://github.com/JohannesSKunz/IsHospitalQuality).
+
+Auer, D. & Kunz, J. S. 2025. [Communication Barriers and Infant Health: The Intergenerational Effect of Randomly Allocating Refugees across Language Regions](https://www.aeaweb.org/articles?id=10.1257/pol.20230220&&from=f). Forthcoming. 
+
 

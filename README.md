@@ -83,13 +83,13 @@ Kunz, J. S., K. E. Staub, & R. Winkelmann. 2021. [Predicting Individual Effects 
 
 Buchmueller, T. C., Cheng, T. C., Pham, N. T., & K. E. Staub. (2021). [The effect of income-based mandates on the demand for private hospital insurance and its dynamics](http://www.kevinstaub.com/ewExternalFiles/2021_jhe.pdf). Journal of Health Economics, 75, 102403.
 
-Kunz, J. S. & C. Propper. (2023). [JUE Insight: Is Hospital Quality Predictive of Pandemic Deaths? Evidence from US Counties](https://www.sciencedirect.com/science/article/pii/S0094119022000493). Journal of Urban Economics, 133: 103472.
+Kunz, J. S. & C. Propper. (2023). [JUE Insight: Is Hospital Quality Predictive of Pandemic Deaths? Evidence from US Counties](https://www.sciencedirect.com/science/article/pii/S0094119022000493). Journal of Urban Economics, 133: 103472. Replication files [here](https://github.com/JohannesSKunz/IsHospitalQuality).
 
-Kung C. S. J., Kunz, J. S. & M. Shields. (2023). [COVID-19 Lockdowns and Changes in Loneliness among Young People in the U.K.](https://doi.org/10.1016/j.socscimed.2023.115692) Social Science & Medicine.320: 115692, 2023. 
+Kung C. S. J., Kunz, J. S. & M. Shields. (2023). [COVID-19 Lockdowns and Changes in Loneliness among Young People in the U.K.](https://doi.org/10.1016/j.socscimed.2023.115692) Social Science & Medicine.320: 115692, 2023. Replication files [here](https://github.com/JohannesSKunz/COVID-19LockdownsChangesInLoneliness).
 
 Krause, D. (2023). [Armed Conflicts With Al-Qaeda and the Islamic State: The Role of Repression and State Capacity.](https://doi.org/10.1177/00220027231176237) Journal of Conflict Resolution, 0(0). In press. Replication files [here](https://figshare.com/articles/dataset/Supplemental_Material_-_Armed_Conflicts_With_Al-Qaeda_and_the_Islamic_State_The_Role_of_Repression_and_State_Capacity/23097027). 
 
-Kunz, J. S., Propper, C., Staub, K. E. & Winkelmann, R. 2024. [Assessing the quality of public services: For-profits, chains, and concentration in the hospital market](https://onlinelibrary.wiley.com/doi/10.1002/hec.4861) Health Economics. 33(9): 2162-2181. Replication files [here](https://github.com/JohannesSKunz/IsHospitalQuality).
+Kunz, J. S., Propper, C., Staub, K. E. & Winkelmann, R. 2024. [Assessing the quality of public services: For-profits, chains, and concentration in the hospital market](https://onlinelibrary.wiley.com/doi/10.1002/hec.4861) Health Economics. 33(9): 2162-2181. Replication files [here](https://github.com/JohannesSKunz/AssessingQualityofPublicServices).
 
 Auer, D. & Kunz, J. S. 2025. [Communication Barriers and Infant Health: The Intergenerational Effect of Randomly Allocating Refugees across Language Regions](https://www.aeaweb.org/articles?id=10.1257/pol.20230220&&from=f). Forthcoming. 
 
